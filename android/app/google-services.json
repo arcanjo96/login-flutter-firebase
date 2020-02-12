@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "145103494868",
+    "firebase_url": "https://slidy-login-firebase.firebaseio.com",
+    "project_id": "slidy-login-firebase",
+    "storage_bucket": "slidy-login-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145103494868:android:ec9f79caa7ad3f02ad6541",
+        "android_client_info": {
+          "package_name": "com.example.login_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "145103494868-ralssdiksldjmmqkiv7c0akhkk9cehh3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.login_firebase",
+            "certificate_hash": "fea37a7c1f1faffbf1a39c644a9657f9b25bd5f0"
+          }
+        },
+        {
+          "client_id": "145103494868-rs6mvnclp7e59pbtogo7h1t1c102tp7m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0EpZHmn_1wYW5DiJCP47DggrCXN7ay_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "145103494868-rs6mvnclp7e59pbtogo7h1t1c102tp7m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
